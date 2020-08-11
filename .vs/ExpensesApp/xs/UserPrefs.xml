@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{B43B19C8-9E06-4E2E-9212-D9D9F0A43EEE}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="ExpensesApp.Android/Properties/AndroidManifest.xml" Line="1" Column="1" />
+      <File FileName="ExpensesApp/Views/ExpenseDetailsPage.xaml" Line="5" Column="28" />
+      <File FileName="ExpensesApp/Views/ExpenseDetailsPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="../../../.nuget/packages/xamarin.android.support.annotations/28.0.0.3/build/monoandroid90/Xamarin.Android.Support.Annotations.targets" Line="28" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ExpensesApp" expanded="True" selected="True">
+            <Node name="ExpensesApp" expanded="True">
+              <Node name="ViewModels" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="ExpenseDetailsPage.xaml" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="ExpensesApp.Android" expanded="True">
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ExpensesApp.Android PreferredExecutionTarget="Android.10.0.0.10:5555" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

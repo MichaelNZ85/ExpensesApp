@@ -1,0 +1,2 @@
+AdbTarget=-s 10.0.0.10:5555
+AdbOptions=
